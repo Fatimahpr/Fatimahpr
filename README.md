@@ -33,7 +33,7 @@ HTML - CSS - Java - PHP - SQL - PL/SQL
 Oracle APEX - Toad - OCI8 - Forms Builder - Reports Builder
 
 أدوات التطوير:
-VS Code - NetBeans - Eclipse - Android Studio - XAMPP - UwAmp - Git & GitHub
+VS Code - NetBeans - Eclipse - Android Studio - XAMPP - UwAmp -  GitHub
 
 التصميم:
 Figma - Canva
